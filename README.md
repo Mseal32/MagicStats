@@ -9,3 +9,10 @@ When opening MagicStats.exe for the first time, a file called Stats.json will be
 
 ## Getting Started
 You may be sorely disappointed by how... empty... the application the first time you open the application: this is by design, not to dissapoint you of course, but to allow room for windows to be open and moved around. You WILL notice a menu bar in the top left of the application. You can start by clicking on Decks, then Register Deck. From there you can edit the deck in View/Edit Registered Decks-which is a window that gets all registered players-by clicking on the player name for the associated deck you want to edit. To let the Leaderboards and Random deck feature use the deck, just restart the application!
+
+
+
+# To Do
+Add a comparison for player's decks, not just overall stats
+Add a feature to generate a Tournament Bracket using existing players, and keep track of tourney placements
+Graphs! (Because who doe'snt like graphs?)
