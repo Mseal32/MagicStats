@@ -14,5 +14,7 @@ You may be sorely disappointed by how... empty... the application the first time
 
 # To Do
 Add a comparison for player's decks, not just overall stats
+
 Add a feature to generate a Tournament Bracket using existing players, and keep track of tourney placements
-Graphs! (Because who doe'snt like graphs?)
+
+Graphs! (Because who doesn't like graphs?)
