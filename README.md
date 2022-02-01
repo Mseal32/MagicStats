@@ -13,6 +13,8 @@ You may be sorely disappointed by how... empty... the application the first time
 
 
 # To Do
+Instead of having most features generate when opened, allow windows to grab from the JSON at run time
+
 Add a comparison for player's decks, not just overall stats
 
 Add a feature to generate a Tournament Bracket using existing players, and keep track of tourney placements
